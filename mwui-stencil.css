@@ -399,6 +399,7 @@
   --mw-component-tabs-label-font-size: 14px;
   --mw-component-tabs-bg-default: #FAFAFA;
   --mw-component-tabs-bg-hover: #EEF1F3;
+  --mw-component-tabs-bg-pressed: #CFD6D8;
   --mw-component-tabs-padding-x: 24px;
   --mw-component-tabs-gap-within: 4px;
   --mw-component-tabs-border-focused: [object Object];
