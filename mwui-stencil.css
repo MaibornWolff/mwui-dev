@@ -271,7 +271,7 @@
   --mw-component-chips-color-bg-default: #ffffff;
   --mw-component-chips-color-bg-hover: #EEF1F3;
   --mw-component-chips-color-bg-pressed: #CFD6D8;
-  --mw-component-chips-border-radius: 16px;
+  --mw-component-chips-border-radius: 12px;
   --mw-component-chips-gap-within: 8px;
   --mw-component-chips-gap-between-x: 8px;
   --mw-component-chips-gap-between-y: 12px;
