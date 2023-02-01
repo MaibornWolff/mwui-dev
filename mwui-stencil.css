@@ -663,6 +663,10 @@
   --mw-core-border-width-md: 3px;
   --mw-core-border-width-lg: 4px;
   --mw-core-border-width-xl: 5px;
+  --mw-core-letter-spacing-body: 0%;
+  --mw-core-letter-spacing-headlines: -2%;
+  --mw-core-letter-spacing-buttons: 3%;
+  --mw-core-letter-spacing-captions: 0%;
   --mw-component-opacity-modal-backdrop: 0.4px;
   --shadows-blur-20: 3px;
   --shadows-blur-40: 4px;
@@ -675,10 +679,6 @@
   --shadows-y-60: 4px;
   --shadows-y-80: 8px;
   --shadows-y-100: 16px;
-  --letter-spacing-body: 0%;
-  --letter-spacing-headlines: -1%;
-  --letter-spacing-buttons: 3%;
-  --letter-spacing-captions: 0%;
   --paragraph-spacing-default: 0px;
   --text-case-none: none;
   --text-case-captions: none;
@@ -899,6 +899,7 @@
   --display-font-weight: 400;
   --display-line-height: 120px;
   --display-font-size: 112px;
+  --display-letter-spacing: -2%;
   --hero-bold-font-family: Poppins;
   --hero-bold-font-weight: 700;
   --hero-bold-line-height: 96px;
@@ -907,10 +908,36 @@
   --hero-font-weight: 400;
   --hero-line-height: 96px;
   --hero-font-size: 72px;
+  --hero-letter-spacing: -2%;
   --h1-font-family: Poppins;
   --h1-font-weight: 700;
-  --h1-line-height: 84px;
-  --h1-font-size: 64px;
+  --h1-line-height: 60px;
+  --h1-font-size: 48px;
+  --h2-font-family: Poppins;
+  --h2-font-weight: 600;
+  --h2-line-height: 72px;
+  --h2-font-size: 56px;
+  --h2-letter-spacing: -2%;
+  --h3-font-family: Poppins;
+  --h3-font-weight: 600;
+  --h3-line-height: 60px;
+  --h3-font-size: 48px;
+  --h3-letter-spacing: -2%;
+  --h4-font-family: Poppins;
+  --h4-font-weight: 600;
+  --h4-line-height: 48px;
+  --h4-font-size: 40px;
+  --h4-letter-spacing: -2%;
+  --h5-font-family: Poppins;
+  --h5-font-weight: 600;
+  --h5-line-height: 36px;
+  --h5-font-size: 32px;
+  --h5-letter-spacing: -2%;
+  --h6-font-family: Poppins;
+  --h6-font-weight: 600;
+  --h6-line-height: 20px;
+  --h6-font-size: 24px;
+  --h6-letter-spacing: -2%;
 }
 
 body {
