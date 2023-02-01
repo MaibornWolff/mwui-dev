@@ -891,6 +891,26 @@
   --shadow-numbra: #00000033;
   --shadow-penumbra: #00000024;
   --shadow-ambient: #0000001f;
+  --display-bold-font-family: Poppins;
+  --display-bold-font-weight: 700;
+  --display-bold-line-height: 120px;
+  --display-bold-font-size: 112px;
+  --display-font-family: Poppins;
+  --display-font-weight: 400;
+  --display-line-height: 120px;
+  --display-font-size: 112px;
+  --hero-bold-font-family: Poppins;
+  --hero-bold-font-weight: 700;
+  --hero-bold-line-height: 96px;
+  --hero-bold-font-size: 72px;
+  --hero-font-family: Poppins;
+  --hero-font-weight: 400;
+  --hero-line-height: 96px;
+  --hero-font-size: 72px;
+  --h1-font-family: Poppins;
+  --h1-font-weight: 700;
+  --h1-line-height: 84px;
+  --h1-font-size: 64px;
 }
 
 body {
