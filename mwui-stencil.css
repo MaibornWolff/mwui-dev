@@ -940,8 +940,8 @@
   --h2-v-2-letter-spacing: -2%;
   --h3-font-family: Poppins;
   --h3-font-weight: 400;
-  --h3-line-height: 84px;
-  --h3-font-size: 56px;
+  --h3-line-height: 36px;
+  --h3-font-size: 24px;
   --h3-letter-spacing: -2%;
   --h3-v-2-font-family: Poppins;
   --h3-v-2-font-weight: 400;
@@ -973,11 +973,21 @@
   --h6-line-height: 30px;
   --h6-font-size: 20px;
   --h6-letter-spacing: -2%;
+  --h6-v-2-font-family: Poppins;
+  --h6-v-2-font-weight: 400;
+  --h6-v-2-line-height: 36px;
+  --h6-v-2-font-size: 24px;
+  --h6-v-2-letter-spacing: -2%;
   --lead-bold-font-family: Poppins;
   --lead-bold-font-weight: 700;
   --lead-bold-font-size: 20px;
   --lead-bold-line-height: 30px;
   --lead-bold-text-case: ;
+  --title-v-2-font-family: Poppins;
+  --title-v-2-font-weight: 400;
+  --title-v-2-font-size: 20px;
+  --title-v-2-line-height: 30px;
+  --title-v-2-text-case: ;
   --lead-font-family: Poppins;
   --lead-font-weight: 400;
   --lead-font-size: 20px;
@@ -986,10 +996,18 @@
   --body-font-weight: 400;
   --body-font-size: 16px;
   --body-line-height: 24px;
+  --body-v-2-font-family: Poppins;
+  --body-v-2-font-weight: 400;
+  --body-v-2-font-size: 16px;
+  --body-v-2-line-height: 24px;
   --small-font-family: Poppins;
   --small-font-weight: 400;
   --small-font-size: 14px;
   --small-line-height: 20px;
+  --subtitle-v-2-font-family: Poppins;
+  --subtitle-v-2-font-weight: 400;
+  --subtitle-v-2-font-size: 14px;
+  --subtitle-v-2-line-height: 20px;
   --x-small-font-family: Poppins;
   --x-small-font-weight: 400;
   --x-small-font-size: 12px;
@@ -1010,6 +1028,12 @@
   --caption-line-height: 20px;
   --caption-text-case: uppercase;
   --caption-letter-spacing: 2%;
+  --caption-v-2-font-family: Poppins;
+  --caption-v-2-font-weight: 400;
+  --caption-v-2-font-size: 12px;
+  --caption-v-2-line-height: 16px;
+  --caption-v-2-text-case: uppercase;
+  --caption-v-2-letter-spacing: 2%;
 }
 
 body {
