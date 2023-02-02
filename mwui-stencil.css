@@ -917,7 +917,7 @@
   --h1-font-size: 48px;
   --h2-font-family: Poppins;
   --h2-font-weight: 600;
-  --h2-line-height: 48px;
+  --h2-line-height: 36px;
   --h2-font-size: 32px;
   --h2-letter-spacing: -2%;
   --h3-font-family: Poppins;
@@ -942,13 +942,13 @@
   --h6-letter-spacing: -2%;
   --lead-bold-font-family: Poppins;
   --lead-bold-font-weight: 700;
-  --lead-bold-font-size: 24px;
-  --lead-bold-line-height: 36px;
+  --lead-bold-font-size: 20px;
+  --lead-bold-line-height: 30px;
   --lead-bold-text-case: ;
   --lead-font-family: Poppins;
   --lead-font-weight: 400;
-  --lead-font-size: 24px;
-  --lead-line-height: 36px;
+  --lead-font-size: 20px;
+  --lead-line-height: 30px;
   --body-font-family: Poppins;
   --body-font-weight: 400;
   --body-font-size: 16px;
