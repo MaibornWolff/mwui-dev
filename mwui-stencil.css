@@ -675,6 +675,7 @@
   --mw-core-text-decoration-none: none;
   --mw-core-text-decoration-buttons: none;
   --mw-core-text-decoration-captions: none;
+  --mw-core-gradient-pbg: linear-gradient(90deg, #ed2985 0%, #0bd2ff 50%, #3cfa50 100%);
   --mw-component-opacity-modal-backdrop: 0.4px;
   --shadows-blur-20: 3px;
   --shadows-blur-40: 4px;
