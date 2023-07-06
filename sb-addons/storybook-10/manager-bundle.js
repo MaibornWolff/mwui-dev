@@ -1,0 +1,4 @@
+try{
+var g=__STORYBOOKADDONS__,{addons:r,types:h,mockChannel:u}=__STORYBOOKADDONS__;var b=__STORYBOOKTHEMING__,{CacheProvider:H,ClassNames:T,Global:y,ThemeProvider:z,background:D,color:P,convert:M,create:x,createCache:W,createGlobal:X,createReset:I,css:E,darken:R,ensure:Y,ignoreSsrWarning:A,isPropValid:G,jsx:O,keyframes:V,lighten:k,styled:N,themes:_,typography:q,useTheme:K,withTheme:U}=__STORYBOOKTHEMING__;var n="#ed2985";var p="#1e194b",c="#FAFAFA",m="#EEF1F3";var i="Poppins";var s=4;var a=x({base:"light",brandTitle:"MWUI",brandTarget:"_self",colorPrimary:n,colorSecondary:p,appBg:m,appContentBg:c,appBorderColor:"grey",appBorderRadius:s,fontBase:i,barTextColor:p,barSelectedColor:n});r.setConfig({theme:a,enableShortcuts:!1});
+}catch(e){ console.error("[Storybook] One of your manager-entries failed: " + import.meta.url, e); }
+//# sourceMappingURL=manager-bundle.js.map
